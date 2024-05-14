@@ -1,6 +1,6 @@
 {
   "server": [
-    "src",
+    "public",
     "node_modules/bootstrap/dist/css",
     "node_modules/bootstrap/dist/js"
   ],
